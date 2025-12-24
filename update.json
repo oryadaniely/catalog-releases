@@ -1,11 +1,11 @@
 {
-  "version": "1.9.2",
+  "version": "1.9.3",
   "notes": "עדכון אוטומטי",
-  "pub_date": "2025-12-22T13:12:55Z",
+  "pub_date": "2025-12-24T11:45:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcE42bVFiQTNIdys5Um1ud0lJU1JyVXhVektwVTlkOTNsamNQekxocjZQb3NySFVaZmFBbHZFakh4aDJoQUtHYzZaR3pYWmduMmdaNHNkUTJxR3UvVnJRajBSTWtkc2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NDA5MTcxCWZpbGU6TGlicmFyeUNhdGFsb2dBcHBfMS43LjJfeDY0LXNldHVwLm5zaXMuemlwCm5WRS9tOG1YWXk4NmhxcnMvSC9MZldMWFkrdHVpRUZMdmtOWkloY09ZWEsvemZrVk1neCtHUGxWZ0U3SjNvMEFVREdmb01LN3gveTdGTzc3NXYwVUJ3PT0K",
-      "url": "https://github.com/oryadaniely/catalog-releases/releases/download/v1.9.2/LibraryCatalogApp_1.7.2_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcE42bVFiQTNIdy8vamtrdDcyeFNrL0cwWG9kTlNpRERSYlFjem9BL2QvQ1NvVzk5SlBIN1JXK0cxcitwUEhTR1NRZlVpd3hYTS9ZTEFhMUk1YldXL1h0M05tQ2ZDeUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTc2NzM2CWZpbGU615DXldem16jXoNeZ16crXzEuOS4zX3g2NC1zZXR1cC5uc2lzLnppcApBeCsyeVE1MG8vNjlwL3pPY21WOUs5SmpmaDlzSUdMV04vNkRUSWRycHh0MU5kUHp4Wlh3OEZ5bmFpcnpVcHBBM3FQUkdFZzBJWklWbHlrTzM3SUdBZz09Cg==",
+      "url": "https://github.com/oryadaniely/catalog-releases/releases/download/v1.9.3/אוצרניק+_1.9.3_x64-setup.nsis.zip"
     }
   }
 }
