@@ -1,11 +1,11 @@
 {
-  "version": "1.9.3",
+  "version": "1.9.4",
   "notes": "עדכון אוטומטי",
-  "pub_date": "2025-12-24T11:45:39Z",
+  "pub_date": "2025-12-24T13:16:24Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcE42bVFiQTNIdy8vamtrdDcyeFNrL0cwWG9kTlNpRERSYlFjem9BL2QvQ1NvVzk5SlBIN1JXK0cxcitwUEhTR1NRZlVpd3hYTS9ZTEFhMUk1YldXL1h0M05tQ2ZDeUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTc2NzM2CWZpbGU615DXldem16jXoNeZ16crXzEuOS4zX3g2NC1zZXR1cC5uc2lzLnppcApBeCsyeVE1MG8vNjlwL3pPY21WOUs5SmpmaDlzSUdMV04vNkRUSWRycHh0MU5kUHp4Wlh3OEZ5bmFpcnpVcHBBM3FQUkdFZzBJWklWbHlrTzM3SUdBZz09Cg==",
-      "url": "https://github.com/oryadaniely/catalog-releases/releases/download/v1.9.3/אוצרניק+_1.9.3_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcE42bVFiQTNIdzFXQ2M4WXBKQ2NpVmFZZE8xdXFXb1hqZGpVZitFbmNkbGVXU09wR08wYjgydktDbzJyK1lmaHcrNkxmbmpJMHZNc0MwaE1rSHkrWi8vREtxVFQ2TndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTgyMTgyCWZpbGU6b3R6YXJuaWstcGx1c18xLjkuNF94NjQtc2V0dXAubnNpcy56aXAKamdqb0RiUEU4TUhsRW0rOG8zVEV0QWgvR3VaaG8yM1ArVGtOQmQwa1BwbTd2YW9zMlQ5eW9UNVZiN2FMZS9ldHZ4dUFOeWxHM29DbDZTZmlXTkYwQXc9PQo=",
+      "url": "https://github.com/oryadaniely/catalog-releases/releases/download/v1.9.4/otzarnik-plus_1.9.4_x64-setup.nsis.zip"
     }
   }
 }
