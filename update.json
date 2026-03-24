@@ -1,11 +1,11 @@
 {
-  "version": "1.9.4",
+  "version": "1.9.5",
   "notes": "עדכון אוטומטי",
-  "pub_date": "2025-12-24T13:16:24Z",
+  "pub_date": "2026-03-24T09:49:34Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcE42bVFiQTNIdzFXQ2M4WXBKQ2NpVmFZZE8xdXFXb1hqZGpVZitFbmNkbGVXU09wR08wYjgydktDbzJyK1lmaHcrNkxmbmpJMHZNc0MwaE1rSHkrWi8vREtxVFQ2TndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTgyMTgyCWZpbGU6b3R6YXJuaWstcGx1c18xLjkuNF94NjQtc2V0dXAubnNpcy56aXAKamdqb0RiUEU4TUhsRW0rOG8zVEV0QWgvR3VaaG8yM1ArVGtOQmQwa1BwbTd2YW9zMlQ5eW9UNVZiN2FMZS9ldHZ4dUFOeWxHM29DbDZTZmlXTkYwQXc9PQo=",
-      "url": "https://github.com/oryadaniely/catalog-releases/releases/download/v1.9.4/otzarnik-plus_1.9.4_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMDYxeFpUSGpLYjBQbXdwd1FlMUFKUlZlYWFVeEpId2JIeE1EdFFvSWhZSHdVcklUUWc2eUZGMHQyK0FvRFJKWXVCcE5XbVIzb1B2cFJYYUpqeWtteU81VzZaemd0dGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzQ1NzY4CWZpbGU6T3R6YXJuaWsgUGx1c18xLjkuNV94NjQtc2V0dXAubnNpcy56aXAKU3Z2bUhVSTRLZHNEcjEwY0JmZTdzMG83U0ovRW82QTFTM3VGTUZSb0xBYW9WQzc1UmlHQmRDRmU0WmhVRG05TWxYV3IwRkw0bWdaV3RJRE1oNUxlRFE9PQo=",
+      "url": "https://github.com/oryadaniely/catalog-releases/releases/download/v1.9.5/Otzarnik Plus_1.9.5_x64-setup.nsis.zip"
     }
   }
 }
